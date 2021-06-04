@@ -1,0 +1,54 @@
+.container{
+    margin-bottom: 50px;
+}
+.orange-bg{
+    background: #fceae8;
+    border-radius: 8px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.mybutton{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.categories1, .categories2, .categories3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories1{
+    background: orange; 
+}
+.categories2{
+    background: orchid;
+}
+.categories3{
+    background: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Submit{
+    height: 300px;
+}
+#Submit h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
